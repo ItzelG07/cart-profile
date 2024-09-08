@@ -4,7 +4,7 @@
     https://fonts.google.com/
     
   ----------------------------------------------------------------------- */
-  @import url(https://fonts.googleapis.com/css?family=Open+Sans:700,600,400,300);
+  @import url('https://fonts.googleapis.com/css2?family=Handjet:wght@100..900&display=swap');
 
   /* --------------------------------------------------------------------
   
@@ -13,10 +13,10 @@
   
   ---------------------------------------------------------------------- */
   :root {
-      --color-lightest: #ffcdcd;
-      --color-light: #ee6c6c;
-      --color: #EC6565;
-      --color-dark: #ca4e4e;
+      --color-lightest: #cdffd5;
+      --color-light: #6cee7d;
+      --color: #56e546;
+      --color-dark: #00ff2f;
       --font: "Open Sans", Helvetica, sans-serif;
   }
 
